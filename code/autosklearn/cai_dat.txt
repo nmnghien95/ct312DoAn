@@ -1,0 +1,5 @@
+﻿# Cài đặt auto-sklearn trong colab của google
+
+!apt-get install swig -y
+!pip install Cython numpy
+!pip install auto-sklearn

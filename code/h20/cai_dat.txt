@@ -1,0 +1,3 @@
+﻿# Cài đặt auto-sklearn trong colab của google
+
+!pip install h2o

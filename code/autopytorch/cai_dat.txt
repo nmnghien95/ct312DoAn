@@ -1,0 +1,5 @@
+﻿# Cài đặt auto-pytorch
+
+pip install torch
+pip install git+https://github.com/shukon/HpBandSter.git
+pip install git+https://github.com/automl/Auto-PyTorch.git

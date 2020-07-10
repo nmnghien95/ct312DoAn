@@ -1,0 +1,6 @@
+﻿# Cài đặt autokeras 1.0.2
+# Thích ứng với tensorflow 2.1.0
+# python >= 3.5
+
+pip install autokeras==1.0.2
+pip install tensorflow==2.1.0
